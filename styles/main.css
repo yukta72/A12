@@ -73,14 +73,16 @@ section p {
 
 /* the styles for the aside */
 aside {
-    width: 215px;
+    width: 195px;
     float: right;
-    padding: 0 0 20px 20px;
 }
 aside h2 {
     color: #000000;
-    font-size: 130%;
     padding: .6em 0 .25em 0;
+}
+
+aside h2 {
+    font-size: 130%;
 }
 
 aside h3 {
